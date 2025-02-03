@@ -1,20 +1,34 @@
-### Hi there, I'm S Rehana! 👋
+<h1 align="center">Hi 👋, I'm Rehana</h1>
+<p align="center"> <img src="https://emojicdn.elk.sh/👋" height="50"/> <img src="https://emojicdn.elk.sh/🙏" height="50"/> <img src="https://emojicdn.elk.sh/🌍" height="50"/> </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+JS%+MySQL;AI+Integration+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL"/>
 </p>
 
 ---
+<h1>🚀 About Me</h3>
+<table style="border: none;">
+  <tr>
+      <td style="font-size:20px;">
+      <ul>
+        <li>💻 <strong>Full Stack Developer</strong> at <strong>Shiksha Infotech</strong></li>
+        <li>📌 <strong>Working on:</strong> <code>jobbox.one</code> (Client Project)</li>
+        <li>🎓 <strong>Major College Project:</strong> Blockchain for reducing fraud activities</li>
+        <li>🤖 <strong>Currently Learning:</strong> AI Integration with Spring Boot</li>
+        <li>📚 <strong>Knowledge in:</strong> Microservices, Hibernate, Kafka (Theoretical)</li>
+      </ul>
+    </td>
+    <td>
+      <td>
+      <img src="https://thumbs.dreamstime.com/b/girl-laptop-icon-flat-style-woman-freelance-working-vector-illustration-isolated-background-student-workplace-sign-272939409.jpg" width="300"/>
+    </td>
+    </td>
+  
+  </tr>
+</table>
 
-### 🚀 About Me
-
-- 💻 **Full Stack Developer** at **Shiksha Infotech**  
-- 📌 **Working on:** `jobbox.one` (Client Project)
-- 🎓 **Major College Project:** Blockchain for reducing fraud activities  
-- 🤖 **Currently Learning:** AI Integration with Spring Boot
-- 📚 **Knowledge in:** Microservices, Hibernate, Kafka (Theoretical)
 
 ---
 
