@@ -1,5 +1,7 @@
-<h1 align="center">Hi  I'm Rehana</h1>
-<p align="center"> <img src="https://emojicdn.elk.sh/👋" height="50"/> <img src="https://emojicdn.elk.sh/🙏" height="50"/> <img src="https://emojicdn.elk.sh/🌍" height="50"/> </p>
+<h1 align="center">
+  Hi, <img src="https:/emojicdn.elk.sh/👋" height="30"/> <img src="https://emojicdn.elk.sh/🙏" height="30"/> <img src="https://emojicdn.elk.sh/🌍" height="30"/> 
+I am Rehana 👩
+</h1>
 
 ---
 
