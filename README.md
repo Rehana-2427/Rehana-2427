@@ -6,7 +6,7 @@ I am Rehana 👩
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=010e01&center=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL"/>
 </p>
 
 ---
