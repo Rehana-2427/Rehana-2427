@@ -46,7 +46,7 @@ I am Rehana 👩
 ### 🛠️ Tech Stack
 
 #### **Backend:**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java]([https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://p.kindpng.com/picc/s/198-1984828_java-icon-transparent-hd-png-download.png))
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
