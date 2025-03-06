@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/banner.gif" alt="Banner GIF"/>
+</p>
 <h1 align="center">
   Hi, <img src="https:/emojicdn.elk.sh/👋" height="30"/> <img src="https://emojicdn.elk.sh/🙏" height="30"/> <img src="https://emojicdn.elk.sh/🌍" height="30"/> 
 I am Rehana 👩
