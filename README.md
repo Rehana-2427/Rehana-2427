@@ -13,9 +13,10 @@ I am Rehana 👩
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/welcome.gif" alt="Banner GIF" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=010e01&center=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=010e01&center=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL"/>
+</h1>
+
 
 ---
 <h1>🚀 About Me</h3>
@@ -23,12 +24,14 @@ I am Rehana 👩
   <tr>
       <td style="font-size:20px;">
       <ul>
-        <li>💻 <strong>Full Stack Developer</strong> at <strong>Shiksha Infotech</strong></li>
-        <li>📌 <strong>Working on:</strong> <code>jobbox.one</code> (Client Project)</li>
-        <li>🎓 <strong>Major College Project:</strong> Blockchain for reducing fraud activities</li>
-        <li>🤖 <strong>Currently Learning:</strong> AI Integration with Spring Boot</li>
-        <li>📚 <strong>Knowledge in:</strong> Microservices, Hibernate, Kafka (Theoretical)</li>
-      </ul>
+    <li>💻 <strong>Full Stack Developer</strong> at <strong>Shiksha Infotech</strong> – Building dynamic and responsive web applications.</li>
+    <li>📌 <strong>Working on:</strong> <code>jobbox.one</code> (Client Project) – Developing a feature-rich job portal with seamless user experience.</li>
+    <li>🎓 <strong>Major College Project:</strong> Blockchain for reducing fraud activities – Designed a secure system to prevent data manipulation.</li>
+    <li>🤖 <strong>Currently Learning:</strong> AI Integration with Spring Boot – Exploring AI-powered automation and smart backend solutions.</li>
+    <li>📚 <strong>Knowledge in:</strong> Microservices, Hibernate, Kafka (Theoretical) – Understanding distributed architecture and real-time data processing.</li>
+    <li>🚀 <strong>Future Goals:</strong> Advancing skills as a Full Stack Developer with expertise in modern web technologies.</li>
+</ul>
+
     </td>
     <td>
       <td>
@@ -45,7 +48,12 @@ I am Rehana 👩
 ### 🛠️ Tech Stack
 
 #### **Backend:**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<a href="#" title="Java">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" 
+       onmouseover="this.src='https://th.bing.com/th/id/OIP.geqaPD1rBtO5dV6Q57sgtwAAAA?w=256&h=320&rs=1&pid=ImgDetMain';" 
+       onmouseout="this.src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white';" 
+       width="100"/>
+</a>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
