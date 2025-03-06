@@ -46,12 +46,12 @@ I am Rehana 👩
 ### 🛠️ Tech Stack
 
 #### **Backend:**
-![Java]([https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://p.kindpng.com/picc/s/198-1984828_java-icon-transparent-hd-png-download.png))
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Microservices (Theoretical)](https://img.shields.io/badge/Microservices-Theoretical-blue)
+![Microservices (Theoretical)](https://img.shields.io/badge/Microservices-Theoretical-blue?style=for-the-badge&logo=java&logoColor=white)
 
 #### **Database:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
