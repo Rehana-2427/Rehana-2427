@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/banner1.gif" alt="Banner GIF" />
 </p>
 
-<h1>Welcome to my <img src="assets/gifs/github_logo.gif" alt="GitHub Logo" width="40"/> account</h1>
+<h1>Welcome to my <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/github_logo.gif" alt="GitHub Logo" width="40"/> account</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/welcome.gif" alt="Banner GIF" />
 </p>
