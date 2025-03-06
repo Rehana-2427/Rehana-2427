@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/banner1.gif" alt="Banner GIF" />
 </p>
 
-<h1>Welcome to my <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/github_logo.gif" alt="GitHub Logo" width="40"/> account</h1>
-<p align="center">
+<h1>Welcome to my <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/github_logp.gif" alt="GitHub Logo" width="40"/> account</h1>
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Rehana-2427/Rehana-2427/main/assets/gifs/welcome.gif" alt="Banner GIF" />
-</p>
+</p> -->
 <h1 align="center">
   Hi, <img src="https:/emojicdn.elk.sh/👋" height="30"/> <img src="https://emojicdn.elk.sh/🙏" height="30"/> <img src="https://emojicdn.elk.sh/🌍" height="30"/> 
 I am Rehana 👩
